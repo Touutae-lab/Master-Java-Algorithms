@@ -1,3 +1,5 @@
+package leetcode;
+
 class Solution {
     // public int numSubarraysWithSum(int[] nums, int goal) {
     //     int result = 0;

@@ -1,4 +1,6 @@
-// Faster than DFS 
+package leetcode;
+
+// Faster than DFS
 public class Leetcode_200_BFS {
     public static void main(String[] args) {
         Solution solution = new Solution();

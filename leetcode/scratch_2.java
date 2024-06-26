@@ -1,3 +1,5 @@
+package leetcode;
+
 class Scratch {
     public static void main(String[] args) {
         int[] nums = new int[] {1,3,5,2,7,5};

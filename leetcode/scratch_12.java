@@ -1,3 +1,5 @@
+package leetcode;
+
 class Scratch {
     public static void main(String[] args) {
         char[][] result = {{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};

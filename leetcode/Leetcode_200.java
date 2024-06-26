@@ -1,3 +1,5 @@
+package leetcode;
+
 public class Leetcode_200 {
     public static void main(String[] args) {
         Solution solution = new Solution();

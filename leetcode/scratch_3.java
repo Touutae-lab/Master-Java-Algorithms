@@ -1,5 +1,6 @@
+package leetcode;
+
 import java.util.HashMap;
-import java.util.HashSet;
 
 class Scratch {
     public static void main(String[] args) {

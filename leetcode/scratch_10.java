@@ -1,3 +1,5 @@
+package leetcode;
+
 class Scratch {
     public static void main(String[] args) {
         int[] input = {1,0,0,0,1};
